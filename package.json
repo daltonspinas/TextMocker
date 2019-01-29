@@ -1,6 +1,0 @@
-{
-    "name": "mock-texter",
-    "scripts": {
-      "start": "node index.html"},
-    "author": "Dalton Spinas"
-  }
