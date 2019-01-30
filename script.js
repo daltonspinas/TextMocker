@@ -22,7 +22,6 @@ function mockify (str) {
     copyButton.addEventListener('click', () => {
         document.getElementById('input').select()
         document.execCommand('copy');
-        alert(`copied: ${textToString}`)
     })
     document.getElementById('returned').appendChild(copyButton)
  })    
